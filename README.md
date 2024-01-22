@@ -1,6 +1,6 @@
 # calculator_app
 
-A new Flutter project.
+A Simple Calculator App based on the iphone's design built with flutter.
 
 ## Getting Started
 
